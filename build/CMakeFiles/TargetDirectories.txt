@@ -1,3 +1,3 @@
-/Users/abdulla/Desktop/RayTracer/build/CMakeFiles/raytracer.dir
-/Users/abdulla/Desktop/RayTracer/build/CMakeFiles/edit_cache.dir
-/Users/abdulla/Desktop/RayTracer/build/CMakeFiles/rebuild_cache.dir
+/Users/abdulla/Desktop/Raytracing/build/CMakeFiles/raytracer.dir
+/Users/abdulla/Desktop/Raytracing/build/CMakeFiles/edit_cache.dir
+/Users/abdulla/Desktop/Raytracing/build/CMakeFiles/rebuild_cache.dir
