@@ -794,6 +794,7 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h \
   /Users/abdulla/Desktop/Raytracing/color.h \
+  /Users/abdulla/Desktop/Raytracing/ray.h \
   /Users/abdulla/Desktop/Raytracing/vec3.h
 
 
@@ -1162,6 +1163,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
+
+/Users/abdulla/Desktop/Raytracing/ray.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/extent.h:
 
