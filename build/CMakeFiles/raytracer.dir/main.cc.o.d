@@ -1,7 +1,6 @@
 CMakeFiles/raytracer.dir/main.cc.o: \
   /Users/abdulla/Desktop/Raytracing/main.cc \
-  /Users/abdulla/Desktop/Raytracing/color.h \
-  /Users/abdulla/Desktop/Raytracing/vec3.h \
+  /Users/abdulla/Desktop/Raytracing/rtproject.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__config \
@@ -793,4 +792,9 @@ CMakeFiles/raytracer.dir/main.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/cstdarg \
-  /Users/abdulla/Desktop/Raytracing/ray.h
+  /Users/abdulla/Desktop/Raytracing/color.h \
+  /Users/abdulla/Desktop/Raytracing/vec3.h \
+  /Users/abdulla/Desktop/Raytracing/ray.h \
+  /Users/abdulla/Desktop/Raytracing/hittable.h \
+  /Users/abdulla/Desktop/Raytracing/hittable_list.h \
+  /Users/abdulla/Desktop/Raytracing/sphere.h
