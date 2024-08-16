@@ -794,8 +794,8 @@ CMakeFiles/raytracer.dir/main.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/cstdarg \
   /Users/abdulla/Desktop/Raytracing/color.h \
   /Users/abdulla/Desktop/Raytracing/vec3.h \
-  /Users/abdulla/Desktop/Raytracing/ray.h \
   /Users/abdulla/Desktop/Raytracing/interval.h \
+  /Users/abdulla/Desktop/Raytracing/ray.h \
   /Users/abdulla/Desktop/Raytracing/hittable.h \
   /Users/abdulla/Desktop/Raytracing/hittable_list.h \
   /Users/abdulla/Desktop/Raytracing/sphere.h \
