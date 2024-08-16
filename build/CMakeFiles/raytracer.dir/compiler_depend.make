@@ -793,9 +793,11 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h \
+  /Users/abdulla/Desktop/Raytracing/camera.h \
   /Users/abdulla/Desktop/Raytracing/color.h \
   /Users/abdulla/Desktop/Raytracing/hittable.h \
   /Users/abdulla/Desktop/Raytracing/hittable_list.h \
+  /Users/abdulla/Desktop/Raytracing/interval.h \
   /Users/abdulla/Desktop/Raytracing/ray.h \
   /Users/abdulla/Desktop/Raytracing/rtproject.h \
   /Users/abdulla/Desktop/Raytracing/sphere.h \
@@ -803,6 +805,10 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 
 
 /Users/abdulla/Desktop/Raytracing/sphere.h:
+
+/Users/abdulla/Desktop/Raytracing/rtproject.h:
+
+/Users/abdulla/Desktop/Raytracing/ray.h:
 
 /Users/abdulla/Desktop/Raytracing/hittable_list.h:
 
@@ -1100,6 +1106,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/array:
 
+/Users/abdulla/Desktop/Raytracing/camera.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__memory/destruct_n.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/algorithm:
@@ -1310,8 +1318,6 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/has_unique_object_representation.h:
 
-/Users/abdulla/Desktop/Raytracing/ray.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/extent.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/dependent_type.h:
@@ -1319,8 +1325,6 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__concepts/convertible_to.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/decay.h:
-
-/Users/abdulla/Desktop/Raytracing/rtproject.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__algorithm/min.h:
 
@@ -2153,6 +2157,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__ranges/concepts.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__type_traits/add_rvalue_reference.h:
+
+/Users/abdulla/Desktop/Raytracing/interval.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk/usr/include/c++/v1/__compare/compare_partial_order_fallback.h:
 

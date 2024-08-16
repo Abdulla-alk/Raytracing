@@ -794,9 +794,11 @@ CMakeFiles/raytracer.dir/main.cc.o
  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdarg.h
  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include/stdint.h
+ /Users/abdulla/Desktop/Raytracing/camera.h
  /Users/abdulla/Desktop/Raytracing/color.h
  /Users/abdulla/Desktop/Raytracing/hittable.h
  /Users/abdulla/Desktop/Raytracing/hittable_list.h
+ /Users/abdulla/Desktop/Raytracing/interval.h
  /Users/abdulla/Desktop/Raytracing/ray.h
  /Users/abdulla/Desktop/Raytracing/rtproject.h
  /Users/abdulla/Desktop/Raytracing/sphere.h
