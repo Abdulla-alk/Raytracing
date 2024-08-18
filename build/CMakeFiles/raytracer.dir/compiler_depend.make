@@ -798,6 +798,7 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
   /Users/abdulla/Desktop/Raytracing/hittable.h \
   /Users/abdulla/Desktop/Raytracing/hittable_list.h \
   /Users/abdulla/Desktop/Raytracing/interval.h \
+  /Users/abdulla/Desktop/Raytracing/material.h \
   /Users/abdulla/Desktop/Raytracing/ray.h \
   /Users/abdulla/Desktop/Raytracing/rtproject.h \
   /Users/abdulla/Desktop/Raytracing/sphere.h \
@@ -809,6 +810,8 @@ CMakeFiles/raytracer.dir/main.cc.o: /Users/abdulla/Desktop/Raytracing/main.cc \
 /Users/abdulla/Desktop/Raytracing/rtproject.h:
 
 /Users/abdulla/Desktop/Raytracing/ray.h:
+
+/Users/abdulla/Desktop/Raytracing/material.h:
 
 /Users/abdulla/Desktop/Raytracing/hittable_list.h:
 
